@@ -5,7 +5,7 @@ import { useInView } from "framer-motion";
 import { useRef, useState } from "react";
 import { ExternalLink, Github, ArrowUpRight, FolderGit2 } from "lucide-react";
 
-interface Project {
+interface PortfolioProject {
   name: string;
   problem: string;
   techStack: string[];
@@ -14,12 +14,11 @@ interface Project {
   liveUrl?: string;
   githubUrl?: string;
   highlight?: boolean;
-  // Internal projects link flag
   isInternal?: boolean;
   color: string;
 }
 
-const projects: Project[] = [
+const projects: PortfolioProject[] = [
   {
     name: "Spllit",
     problem: "Streamlining shared expenses for groups with a focus on simple UX.",
