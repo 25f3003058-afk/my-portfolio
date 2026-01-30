@@ -1,0 +1,11 @@
+# Placeholder Resume File
+
+Place your actual resume.pdf file here.
+
+This file is referenced in:
+- components/Hero.tsx (Download Resume button)
+- components/Contact.tsx (Download Resume button)
+
+To replace this placeholder:
+1. Delete this file
+2. Add your resume PDF and name it "resume.pdf"
