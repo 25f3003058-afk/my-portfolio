@@ -23,20 +23,21 @@ export default function About() {
           
           <div className="space-y-6 text-light-200 text-lg leading-relaxed">
             <p>
-              I'm a tech enthusiast passionate about solving real-world problems through technology. 
-              As a student and startup builder, I focus on creating products that make a tangible impact.
+              By day, I'm a <strong>B.S. in Data Science & AI student at IIT Madras</strong>. By night, I'm a 
+              <strong>UI/UX & Graphic Designer</strong> obsessed with crafting intuitive interfaces and impactful visual identities.
+              I combine analytical thinking with modern design principles to build products that look good and work even better.
             </p>
             
             <p>
-              My journey combines creative design, frontend development, and entrepreneurship. 
-              I thrive on building solutions from the ground up—whether it's designing intuitive interfaces, 
-              crafting pixel-perfect frontends, or launching startups that address genuine market needs.
+              My journey is fueled by a mix of creative design, frontend wizardry, and startup grit. 
+              I have a strong foundation in user flow design, wireframing, and brand identity creation. 
+              From producing digital assets to mocking up websites in **Figma** and **Canva**, I turn abstract ideas into pixels.
             </p>
             
             <p>
-              I believe in learning by doing. Every project I take on teaches me something new about 
-              technology, people, and business. My goal is to build products that matter and solve 
-              problems that people actually face.
+              Currently, I'm building solutions that matter—whether it's designing clean web UI screens for student platforms 
+              like <strong>SkillBee</strong>, developing futuristic splitting services like **Spllit**, or creating cohesive 
+              branding for food businesses like **Alpha Kitchen**. I learn by building, failing fast, and iterating faster.
             </p>
           </div>
         </motion.div>
