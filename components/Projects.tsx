@@ -14,6 +14,7 @@ interface Project {
   liveUrl?: string;
   githubUrl?: string;
   highlight?: boolean;
+  isInternal?: boolean;
   color: string;
 }
 
