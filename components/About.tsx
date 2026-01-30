@@ -23,21 +23,27 @@ export default function About() {
           
           <div className="space-y-6 text-light-200 text-lg leading-relaxed">
             <p>
-              By day, I'm a <strong>B.S. in Data Science & AI student at IIT Madras</strong>. By night, I'm a 
-              <strong>UI/UX & Graphic Designer</strong> obsessed with crafting intuitive interfaces and impactful visual identities.
-              I combine analytical thinking with modern design principles to build products that look good and work even better.
+              By day, I'm a <span className="text-white font-semibold">B.S. in Data Science & AI student at IIT Madras</span>. 
+              By night, I'm a <span className="text-white font-semibold">UI/UX & Graphic Designer</span> obsessed with 
+              crafting intuitive interfaces and impactful visual identities. I combine analytical thinking with modern 
+              design principles to build products that look good and work even better.
             </p>
             
             <p>
-              My journey is fueled by a mix of creative design, frontend wizardry, and startup grit. 
+              My journey is fueled by a mix of <span className="text-white font-semibold">creative design</span>, 
+              <span className="text-white font-semibold">frontend wizardry</span>, and 
+              <span className="text-white font-semibold">startup grit</span>. 
               I have a strong foundation in user flow design, wireframing, and brand identity creation. 
-              From producing digital assets to mocking up websites in **Figma** and **Canva**, I turn abstract ideas into pixels.
+              From producing digital assets to mocking up websites in <span className="text-white font-semibold">Figma</span> 
+              and <span className="text-white font-semibold">Canva</span>, I turn abstract ideas into pixels.
             </p>
             
             <p>
               Currently, I'm building solutions that matter—whether it's designing clean web UI screens for student platforms 
-              like <strong>SkillBee</strong>, developing futuristic splitting services like **Spllit**, or creating cohesive 
-              branding for food businesses like **Alpha Kitchen**. I learn by building, failing fast, and iterating faster.
+              like <span className="text-white font-semibold">SkillBee</span>, developing futuristic splitting services like 
+              <span className="text-white font-semibold">Spllit</span>, or creating cohesive 
+              branding for food businesses like <span className="text-white font-semibold">Alpha Kitchen</span>. 
+              I learn by building, failing fast, and iterating faster.
             </p>
           </div>
         </motion.div>
