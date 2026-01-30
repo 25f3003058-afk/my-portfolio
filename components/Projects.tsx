@@ -14,6 +14,7 @@ interface Project {
   liveUrl?: string;
   githubUrl?: string;
   highlight?: boolean;
+  // Internal projects link flag
   isInternal?: boolean;
   color: string;
 }
